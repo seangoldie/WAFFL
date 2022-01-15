@@ -31,6 +31,7 @@ Make predictions using its predict methods:
     >>> model.predict_from_array(audio_array, fs, hop_length=320, nfft=4096, win_length=2048)
     >>> model.predict_from_path(audio_file_pathway, hop_length=320, nfft=4096, win_length=2048)
 ```
+
 That's really all there is to it! Call `help()` on a `waffl.WAFFL()` object or either `.predict_from` methods for the full documentation on their usage.
 
 #### More Info
