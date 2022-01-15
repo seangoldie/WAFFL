@@ -7,7 +7,7 @@ A novel and efficient machine learning method for estimating the fundamental fre
 
 ## Installation
 
-Currently, the best way to install and use the WAFFL package is to clone this repository and move the folder `/WAFFL/waffl` to the desired location. This should be the location your package manager installs new packages, and your Python installation looks for libraries.
+Currently, the best way to install and use the WAFFL package is to clone this repository and move the folder `/WAFFL/waffl` to the desired location. This should be the location your package manager installs new packages, and your Python installation looks for libraries. Alternatively, it could simply be the same folder as the Python project you'd like to use WAFFL in.
 
 ### Usage
 
