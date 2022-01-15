@@ -13,7 +13,7 @@ class WAFFL():
         Usage of this class:
 
         Import the model into your Python project:
-            >>> import WAFFL
+            >>> import waffl
             >>> model = waffl.WAFFL()
 
         Make predictions using its predict methods:
