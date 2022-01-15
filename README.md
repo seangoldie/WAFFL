@@ -34,4 +34,4 @@ Make predictions using its predict methods:
 That's really all there is to it! Call `help()` on a `waffl.WAFFL()` object or either `.predict_from` methods for the full documentation on their usage.
 
 #### More Info
-If you'd like to read the whitepaper we wrote about WAFFL, you can find that [here](https://gregormcw.com)
+If you'd like to read the whitepaper we wrote about WAFFL, you can find that [here](https://gregormcw.com/waffl/WAFFL_paper_release.pdf).
