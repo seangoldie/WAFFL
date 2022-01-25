@@ -21,7 +21,7 @@ The model can be used to predict pitch contours for vocal recordings using the `
 
 If no output format string is passed to the prediction method, the default is `"raw_pitch"`.
 
-**Example**
+## Example
 
 Import the model into your Python project:
 ```
@@ -35,3 +35,6 @@ Make predictions using its predict methods:
 ```
 
 That's really all there is to it! Call `help()` on a `waffl.WAFFL()` object or either `.predict_from` methods for the full documentation on their usage.
+
+## Dependencies
+The package requires Numpy and Librosa. In most cases you can simply `pip install` them.
